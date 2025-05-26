@@ -6,7 +6,7 @@ export class Boot extends Scene {
   }
 
   preload() {
-    this.load.image("dungeon", "assets/dungeon.png");
+    this.load.image("dungeon", "assets/telainicial.png");
   }
 
   create() {
