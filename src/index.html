@@ -1,0 +1,54 @@
+<html>
+  <head></head>
+    <body></body>
+      
+    <script>
+      function ativarGeolocalizacao() {
+          if (navigator.geolocation) {
+            navigator.geolocation.watchPosition( 
+            function (position) {
+              texto.innerHTML = position.coords.latitude + 
+              ", " + position.coords.longitude;
+            }
+            );
+      }
+    }
+    </script>
+    
+    
+    <button id= "botao"
+      onclick = "ativarGeolocalizacao()">  
+      Geolocalizar!</button>
+      <br>       
+    <text id="texto"> </text>
+      </br>
+    
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
+
+
+
+<style>
+  #botao {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  </style>
