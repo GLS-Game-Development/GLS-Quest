@@ -6,47 +6,41 @@
       function ativarGeolocalizacao() {
           if (navigator.geolocation) {
             navigator.geolocation.watchPosition( 
-            function (position) {
+            (position) => {
+              let bauLatitude = "-27.3658";
+              let bauLongitude = "-48.5472";
+
+            // Se o jogador localizar o baú, informar na tela
+
               texto.innerHTML = position.coords.latitude + 
               ", " + position.coords.longitude;
-            }
-            );
+            },
+            (error) => {
+             texto.innerHTML = "Erro ao obter localização: " + error.message;
+            },
+            { enableHighAccuracy: true },
+        );
       }
     }
     </script>
-    
-    
+       
     <button id= "botao"
       onclick = "ativarGeolocalizacao()">  
       Geolocalizar!</button>
       <br>       
     <text id="texto"> </text>
       </br>
-    
-
-
-
-
-
-</body>
-
-
-
-
-
-
-
-
+<body>
 </html>
-
-
 
 <style>
   #botao {
-    width: 200px;
+    width: 175px;
     height: 50px;
     font-size: 20px;
-    background-color: blue;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(70, 135, 209);
     color: white;
     border: none;
     border-radius: 5px;
