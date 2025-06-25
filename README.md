@@ -4,3 +4,13 @@ Como uma última tentativa de combater os monstros que assolam a terra vindos da
 ## Estrutura do Jogo
 Será um RPG de batalha em turnos, em que um grupo com quatro jogadores começará em uma das extremidades do mapa e deverá progredir até o objetivo atacando e derrotando inimigos NPCs, além de gerir estrategicamente a divisão do suprimento limitado de itens encontrados no mapa entre si, de acordo com a função de cada jogador na equipe.
 O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se desvenda o mistério por trás de sua aparição.
+
+### Classes/Personagens 
+
+1- ""
+2- ""
+3- ""
+4- ""
+
+### História do Mundo
+
