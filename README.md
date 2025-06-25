@@ -12,5 +12,10 @@ O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se
 3- ""
 4- ""
 
-### História do Mundo
+### Referências
+- Darkest Dungeon
+- Blood Typers
+- Franquia Persona
+- Franquia Pokémon
+- Over the Garden Wall
 
