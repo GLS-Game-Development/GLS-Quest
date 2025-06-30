@@ -10,10 +10,30 @@ Será um RPG de batalha em turnos, em que um grupo com quatro jogadores começar
 O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se desvenda o mistério por trás de sua aparição.
 
 ### Classes/Personagens 
-- 1
-- 2
-- 3
-- 4
+- Combatente (atleta, lutador de artes marciais);
+- Tanque (boxeador, maromba, lutador de sumô);
+- Ladino (criminoso, trombadinha);
+- Suporte (médico/enfermeiro/herbalista, usuário de estilingue/funda).
+
+### Regras
+- Gravidade que segue as leis da física, com dano de queda;
+- Dano por fogo, veneno e armadilhas espalhadas pelo mapa;
+- Sistema de combate baseado em turnos, com cada jogador podendo realizar uma ação por turno;
+- Cada personagem tem habilidades únicas que podem ser usadas em batalha, como ataques especiais ou curas;
+- Os jogadores devem coletar itens encontrados no mapa e os gerenciar de forma estratégica, levando em conta as funções de cada personagem;
+- puzzles e trabalho em equipe são necessários para superar obstáculos e avançar no jogo;
+- Movimentação livre pelo mapa, com exploração de salas e corredores da masmorra;
+- O jogo só acaba quando o ultimo chefe for derrotado, ou quando todos os jogadores forem derrotados.
+
+### Estilo Visual 
+- o estilo visual de combate será inspirado em jogos como Darkest Dungeon com uma estética sombria e detalhada, com personagens estilizados e animações de ataque dinâmicas;
+- o estilo visual do mapa será inspirado em jogos como Blood Typers, com um design de masmorra labiríntica e salas imprevisíveis;
+- o estilo visual dos personagens será inspirado em animações como Over the Garden Wall e dungeon meshi, com um design de personagens únicos e expressivos, que refletem suas personalidades e habilidades;
+- estilo de movimentação e exploração inspirado em pokemon, persona e stardew valley;
+- o jogo terá uma paleta de cores sombria e uma atmosfera tensa;
+- O jogo terá uma interface de usuário intuitiva, com menus e botões fáceis de navegar, que permitem aos jogadores acessar rapidamente suas habilidades, itens e informações sobre o jogo;
+- as musicas e efeitos sonoros terão uma estética mais sombria e tensa, com uma trilha sonora que complementa a atmosfera do jogo e aumenta a imersão dos jogadores.
+
 
 ### Referências
 - Darkest Dungeon
