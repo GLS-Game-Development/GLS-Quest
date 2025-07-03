@@ -1,32 +1,42 @@
 # GLS Quest
 Em um mundo de fantasia, em que existem raças como humanos, elfos, anões e orcs, onde a magia é utilizada no cotidiano, de repente, surge uma masmorra que se assemelha a um labirinto, com salas imprevisíveis e todos os tipos de tesouros e perigos. 
 Como uma última tentativa de combater os monstros que assolam a terra vindos da masmorra, uma equipe de aventureiros é trazida de outro mundo pelo Conselho de Magia do reino para conquistá-la e descobrir sua origem.
+
 ## Roteiro
 Ao entrar em uma sala com quatro jogadores, o jogo começa com uma cutscene simultânea, em que é apresentada a história do mundo e os personagens. Em seguida, os jogadores podem escolher qual dos quatro personagens querem controlar, e o jogo começa com a equipe sendo recebida no mundo por um dos magos do reino e, logo depois, sendo levada para a masmorra.
 Ao longo do progresso da equipe nos dez andares da masmorra, os jogadores encontrarão inimigos NPCs como goblins, esqueletos e outros monstros típicos de masmorras, além de armadilhas e quebra-cabeças que exigem trabalho em equipe e cooperação para serem superados. Na metade do jogo, no andar cinco, os jogadores encontrarão um chefe: um dragão guardião da masmorra. Ao ser derrotado, o grupo obtém um baú do tesouro com itens poderosos, assim como uma pista sobre a origem da masmorra.
 Então, ao chegar no último andar, a equipe de aventureiros encontra a responsável pela masmorra: Uma maga que, assim como os magos do reino, abriu um portal para outra dimensão, mas que, ao contrário deles, não tinha boas intenções: Ela tinha o objetivo se vingar do Conselho de Magia após ter sido expulsa dele. Após uma batalha difícil, a maga é derrotada e o portal é fechado, encerrando a ameaça da masmorra.
+
 ## Estrutura do Jogo
 Será um RPG de batalha em turnos, em que um grupo com quatro jogadores começará em uma das extremidades do mapa e deverá progredir até o objetivo atacando e derrotando inimigos NPCs, além de gerir estrategicamente a divisão do suprimento limitado de itens encontrados no mapa entre si, de acordo com a função de cada jogador na equipe.
 O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se desvenda o mistério por trás de sua aparição.
 
 ### Classes 
-- Combatente (atleta, lutador de artes marciais);
-- Tanque (boxeador, maromba, lutador de sumô);
-- Ladino (criminoso, trombadinha);
-- Suporte (médico/enfermeiro/herbalista, usuário de estilingue/funda).
+- Combatente;
+- Tanque;
+- Ladino;
+- Suporte.
 
 ### Personagens
  - Atleta (Combatente)
-    É rápido e ágil, com habilidades de ataque que causam alto dano em inimigos únicos. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um ataque rápido que causa dano adicional e tem uma chance maior de acerto crítico. Pode contra-atacar ataques inimigos.
+    É rápido e ágil, com habilidades de ataque que causam alto dano em inimigos únicos. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um ataque rápido que causa dano adicional e tem uma chance maior de acerto crítico.
+   Vantagem: Pode contra-atacar ataques inimigos;
+   Desvantagem: Tem menos vida que o tanque e pode tomar dano se errar o contra-ataque.
 
  - Cara de Academia (Tanque)
-    Tem uma maior resistência a dano físico e pode causar dano mediano em área com ataques corpo a corpo. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um golpe que atinge inimigos adjacentes, causando dano adicional. Tem a possibilidade defender ataques inimigos.
+    Tem uma maior resistência a dano físico e pode causar dano mediano em área com ataques corpo a corpo. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um golpe que atinge inimigos adjacentes, causando dano adicional.
+   Vantagem: Tem a possibilidade defender a si mesmo ou outro membro da equipe de ataques inimigos;
+   Desvantagem: Se move mais lentamente em batalhas (maior probabilidade de tomar dano maior ou errar um ataque).
 
  - Trombadinha (Ladino)
-    Tem a habilidade de encontrar armadilhas antes de serem acionadas, podendo desativá-las ou evitá-las. Por exemplo: ao entrar em uma sala, ele pode usar uma ação para procurar por armadilhas e, se encontrar, desativá-las ou avisar os aliados. Também tem uma maior probabilidade de esquiva.
+    Tem a habilidade de encontrar armadilhas antes de serem acionadas, podendo desativá-las ou evitá-las. Por exemplo: ao entrar em uma sala, ele pode usar uma ação para procurar por armadilhas e, se encontrar, desativá-las ou avisar os aliados.
+   Vantagem: Maior probabilidade de esquiva;
+   Desvantagem: Menor quantidade de vida entre os personagens.
 
  - Músico (Suporte)
     Atua como suporte, com habilidades de cura e buffs para os aliados. Por exemplo: ao utilizar uma das ações, ele pode tocar uma música que aumenta a defesa ou dano dos aliados ou cura uma pequena quantidade de vida de todos.
+   Vantagem: Tem diversas habilidades (músicas) que podem ajudar seus companheiros e a si mesmo (a)
+   Desvantagem: Por não ter nenhuma habilidade de defesa em combate, pode ser mais visado pelos inimigos.
 
 ### Regras
 - Gravidade que segue as leis da física, com dano de queda;
