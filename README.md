@@ -18,22 +18,22 @@ O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se
 - Suporte.
 
 ### Personagens
- - Atleta (Combatente)
+ - Atleta (Combatente):
     É rápido e ágil, com habilidades de ataque que causam alto dano em inimigos únicos. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um ataque rápido que causa dano adicional e tem uma chance maior de acerto crítico.
    - Vantagem: Pode contra-atacar ataques inimigos;
    - Desvantagem: Tem menos vida que o tanque e pode tomar dano se errar o contra-ataque.
 
- - Cara de Academia (Tanque)
+ - Cara de Academia (Tanque):
     Tem uma maior resistência a dano físico e pode causar dano mediano em área com ataques corpo a corpo. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um golpe que atinge inimigos adjacentes, causando dano adicional.
    - Vantagem: Tem a possibilidade defender a si mesmo ou outro membro da equipe de ataques inimigos;
    - Desvantagem: Se move mais lentamente em batalhas (maior probabilidade de tomar dano maior ou errar um ataque).
 
- - Trombadinha (Ladino)
+ - Trombadinha (Ladino):
     Tem a habilidade de encontrar armadilhas antes de serem acionadas, podendo desativá-las ou evitá-las. Por exemplo: ao entrar em uma sala, ele pode usar uma ação para procurar por armadilhas e, se encontrar, desativá-las ou avisar os aliados.
    - Vantagem: Maior probabilidade de esquiva;
    - Desvantagem: Menor quantidade de vida entre os personagens.
 
- - Músico (Suporte)
+ - Músico (Suporte):
     Atua como suporte, com habilidades de cura e buffs para os aliados. Por exemplo: ao utilizar uma das ações, ele pode tocar uma música que aumenta a defesa ou dano dos aliados ou cura uma pequena quantidade de vida de todos.
    - Vantagem: Tem diversas habilidades (músicas) que podem ajudar seus companheiros e a si mesmo (a);
    - Desvantagem: Habilidades de uso limitado (cooldown).
