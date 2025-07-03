@@ -35,8 +35,8 @@ O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se
 
  - Músico (Suporte)
     Atua como suporte, com habilidades de cura e buffs para os aliados. Por exemplo: ao utilizar uma das ações, ele pode tocar uma música que aumenta a defesa ou dano dos aliados ou cura uma pequena quantidade de vida de todos.
-   - Vantagem: Tem diversas habilidades (músicas) que podem ajudar seus companheiros e a si mesmo (a)
-   - Desvantagem: Por não ter nenhuma habilidade de defesa em combate, pode ser mais visado pelos inimigos.
+   - Vantagem: Tem diversas habilidades (músicas) que podem ajudar seus companheiros e a si mesmo (a);
+   - Desvantagem: Habilidades de uso limitado (cooldown).
 
 ### Regras
 - Gravidade que segue as leis da física, com dano de queda;
