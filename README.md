@@ -9,11 +9,24 @@ Então, ao chegar no último andar, a equipe de aventureiros encontra a respons�
 Será um RPG de batalha em turnos, em que um grupo com quatro jogadores começará em uma das extremidades do mapa e deverá progredir até o objetivo atacando e derrotando inimigos NPCs, além de gerir estrategicamente a divisão do suprimento limitado de itens encontrados no mapa entre si, de acordo com a função de cada jogador na equipe.
 O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se desvenda o mistério por trás de sua aparição.
 
-### Classes/Personagens 
+### Classes 
 - Combatente (atleta, lutador de artes marciais);
 - Tanque (boxeador, maromba, lutador de sumô);
 - Ladino (criminoso, trombadinha);
 - Suporte (médico/enfermeiro/herbalista, usuário de estilingue/funda).
+
+### Personagens
+ - Atleta (Combatente)
+    É rápido e ágil, com habilidades de ataque que causam alto dano em inimigos únicos. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um ataque rápido que causa dano adicional e tem uma chance maior de acerto crítico. Pode contra-atacar ataques inimigos.
+
+ - Cara de Academia (Tanque)
+    Tem uma maior resistência a dano físico e pode causar dano mediano em área com ataques corpo a corpo. Por exemplo: ao atacar um inimigo, ele pode usar uma ação para desferir um golpe que atinge inimigos adjacentes, causando dano adicional. Tem a possibilidade defender ataques inimigos.
+
+ - Trombadinha (Ladino)
+    Tem a habilidade de encontrar armadilhas antes de serem acionadas, podendo desativá-las ou evitá-las. Por exemplo: ao entrar em uma sala, ele pode usar uma ação para procurar por armadilhas e, se encontrar, desativá-las ou avisar os aliados. Também tem uma maior probabilidade de esquiva.
+
+ - Músico (Suporte)
+    Atua como suporte, com habilidades de cura e buffs para os aliados. Por exemplo: ao utilizar uma das ações, ele pode tocar uma música que aumenta a defesa ou dano dos aliados ou cura uma pequena quantidade de vida de todos.
 
 ### Regras
 - Gravidade que segue as leis da física, com dano de queda;
@@ -34,6 +47,10 @@ O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se
 - O jogo terá uma interface de usuário intuitiva, com menus e botões fáceis de navegar, que permitem aos jogadores acessar rapidamente suas habilidades, itens e informações sobre o jogo;
 - as musicas e efeitos sonoros terão uma estética mais sombria e tensa, com uma trilha sonora que complementa a atmosfera do jogo e aumenta a imersão dos jogadores.
 
+### Fontes de Receita
+A forma com que os jogadores ganham tijolinhos, a moeda da Feira de Jogos, é através de:
+- Recompensas crescentes exponenciais, conforme descem os andares da masmorra: A cada nível avançado, a quantidade inicial de tijolinhos recebidos (10) tem um multiplicador que aumenta 0,5x. Portanto, ao final do jogo, tendo completado os 10 andares, os jogadores devem receber uma recompensa total de 270 tijolinhos
+- Recompensas extras a cada baú aberto, que podem variar entre 10 e 50 tijolinhos, com uma probabilidade maior de receber menos tijolinhos nos baús iniciais e uma probabilidade maior de receber mais tijolinhos nos baús finais.
 
 ### Referências
 - Darkest Dungeon
