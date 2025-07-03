@@ -48,24 +48,16 @@ O objetivo é explorar a dungeon, derrotar inimigos e coletar itens, enquanto se
 - Movimentação livre pelo mapa, com exploração de salas e corredores da masmorra;
 - O jogo só acaba quando o ultimo chefe for derrotado, ou quando todos os jogadores forem derrotados.
 
-### Estilo Visual 
-- o estilo visual de combate será inspirado em jogos como Darkest Dungeon com uma estética sombria e detalhada, com personagens estilizados e animações de ataque dinâmicas;
-- o estilo visual do mapa será inspirado em jogos como Blood Typers, com um design de masmorra labiríntica e salas imprevisíveis;
-- o estilo visual dos personagens será inspirado em animações como Over the Garden Wall e dungeon meshi, com um design de personagens únicos e expressivos, que refletem suas personalidades e habilidades;
-- estilo de movimentação e exploração inspirado em pokemon, persona e stardew valley;
-- o jogo terá uma paleta de cores sombria e uma atmosfera tensa;
-- O jogo terá uma interface de usuário intuitiva, com menus e botões fáceis de navegar, que permitem aos jogadores acessar rapidamente suas habilidades, itens e informações sobre o jogo;
-- as musicas e efeitos sonoros terão uma estética mais sombria e tensa, com uma trilha sonora que complementa a atmosfera do jogo e aumenta a imersão dos jogadores.
+### Estilo Visual e Referências
+- O estilo visual de combate será inspirado em jogos como Darkest Dungeon com uma estética sombria, tensa e detalhada;
+- Estrutura do mapa inspirada em jogos como Blood Typers, com um design de masmorra labiríntica e salas imprevisíveis;
+- Estilo dos personagens e atmosfera, principalmente de inimigos, serão inspirados em animações como Over the Garden Wall, em seu aspecto sombrio;
+- A história é inspirada no conflito central de Dungeon Meshi;
+- Combate e exploração inspirados em jogos como Pokémon, a franquia Persona e Stardew Valley;
+- Interface de usuário intuitiva, com menus e botões fáceis de navegar, que permitem aos jogadores acessar rapidamente suas habilidades, itens e informações sobre o jogo;
+- Música e efeitos sonoros que contribuam para a atmosfera sombria e tensa, visando aumentar a imersão dos jogadores.
 
 ### Fontes de Receita
 A forma com que os jogadores ganham tijolinhos, a moeda da Feira de Jogos, é através de:
 - Recompensas crescentes exponenciais, conforme descem os andares da masmorra: A cada nível avançado, a quantidade inicial de tijolinhos recebidos (10) tem um multiplicador que aumenta 0,5x. Portanto, ao final do jogo, tendo completado os 10 andares, os jogadores devem receber uma recompensa total de 270 tijolinhos
 - Recompensas extras a cada baú aberto, que podem variar entre 10 e 50 tijolinhos, com uma probabilidade maior de receber menos tijolinhos nos baús iniciais e uma probabilidade maior de receber mais tijolinhos nos baús finais.
-
-### Referências
-- Darkest Dungeon
-- Blood Typers
-- Franquia Persona
-- Franquia Pokémon
-- Over the Garden Wall
-
