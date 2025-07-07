@@ -1,4 +1,7 @@
 # Fluxograma da Aventura de RPG
+
+```mermaid
+flowchart TD
 A[Apresentação da história]
 B{{Escolha de Classe}}
 C((Combatente))
@@ -18,9 +21,8 @@ P[Maga derrotada e Portal se fecha]
 Q((Combate ))
 R((Puzzle))
 S{Exploração}
-T[ Fim de jogo + Créditos]
+T[Fim de jogo e Créditos]
 
-flowchart TD
   A --> B;
   B --> C;
   B --> D;
@@ -60,4 +62,4 @@ flowchart TD
   R --> O;
   O --> P;
   P --> T;
-
+```
