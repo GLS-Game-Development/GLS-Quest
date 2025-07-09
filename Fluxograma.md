@@ -1,4 +1,4 @@
-# Fluxograma da Aventura de RPG
+#  Fluxograma da Aventura de RPG
 ```mermaid
 flowchart TD
 A[Apresentação da história]
