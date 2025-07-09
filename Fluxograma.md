@@ -1,4 +1,5 @@
 # Fluxograma da Aventura de RPG
+```mermaid
 flowchart TD
 A[Apresentação da história]
 B{{Escolha de Classe}}
@@ -49,3 +50,4 @@ N[Ultimo Andar]
   N -- Exploração+Puzzle --> O;
   O -- Combate obrigatório --> P;
   P --> T;
+```
