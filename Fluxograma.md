@@ -1,6 +1,4 @@
 # Fluxograma da Aventura de RPG
-
-```mermaid
 flowchart TD
 A[Apresentação da história]
 B{{Escolha de Classe}}
@@ -9,19 +7,22 @@ D((Tanque))
 E((Ladino))
 F((Suporte))
 G[Levados a masmorra por um mago]
-H[Primeiro andar]
-I[Proximo andar]
-J[Quinto andar]
 K[Combate dragão guardião]
 L[Dragão Derrotado]
 M[Recompensas e Pista de Origem da masmorra]
-N[Ultimo Andar]
 O[Combate com Boss Final]
 P[Maga derrotada e Portal se fecha]
-Q((Combate ))
-R((Puzzle))
-S{Exploração}
 T[Fim de jogo e Créditos]
+H[Primeiro andar]
+I[Segundo andar]
+U[Terceiro Andar]
+V[Quarto Andar]
+J[Quinto andar]
+W[Sexto Andar]
+X[Setimo Andar]
+Y[Oitavo Andar]
+Z[Nono Andar]
+N[Ultimo Andar]
 
   A --> B;
   B --> C;
@@ -33,33 +34,18 @@ T[Fim de jogo e Créditos]
   E --> G;
   F --> G;
   G --> H;
-  H --> S;
-  S --> R;
-  R --> I;
-  I --> S;
-  S --> I;
-  I --> S;
-  S --> I;
-  I --> S;
-  S --> R;
-  R --> J;
-  J --> S;
-  S --> K;
-  K --> L;
+  H -- Puzzle --> I;
+  I -- Exploração --> U;
+  U -- Exploração --> V;
+  V -- Exploração+Puzzle --> J;
+  J -- Exploração --> K;
+  K -- Combate obrigatório --> L;
   L --> M;
-  M --> I;
-  I --> S;
-  S --> I;
-  I --> S;
-  S --> R;
-  R --> I;
-  I --> S;
-  S --> I;
-  I --> S;
-  S --> N;
-  N --> S;
-  S --> R;
-  R --> O;
-  O --> P;
+  M --> W;
+  W -- Exploração --> X;
+  X -- Exploração+Puzzle --> Y;
+  Y -- Exploração --> Z;
+  Z -- Exploração --> N;
+  N -- Exploração+Puzzle --> O;
+  O -- Combate obrigatório --> P;
   P --> T;
-```
